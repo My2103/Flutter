@@ -1,0 +1,2 @@
+String TTS_INPUT =
+    "Personal enjoyment and satisfaction. It asserts that the ultimate measure of time well spent isn't necessarily a grand success or widespread acclaim, but rather the intrinsic pleasure derived from the process itself. When you genuinely like what you've created, pursued, or experienced, that feeling alone validates the effort. It signifies that your time was not merely consumed, but rather enriched and given meaning, regardless of any other external results.";
